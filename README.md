@@ -12,3 +12,4 @@
 - [Foxhole: Colonial Tank Flags Mod](https://danetello.itch.io/foxhole-tank-flags)
 - [Warden French flags](https://docteur-lulu.itch.io/french-flags)
 - [Collie Nationality Flags](https://thatdudegaz.itch.io/collie-nationality-flags)
+  - War-WindowsNoEditor_zHangingAmerican
